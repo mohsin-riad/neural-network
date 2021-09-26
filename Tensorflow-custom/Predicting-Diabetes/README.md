@@ -28,8 +28,8 @@
 
 *`***`Best Accuracy from Best Model highlighted*
 
-<img width=“964” alt=“Table1” src=“./Images/Table1.png”>
-<img width=“964” alt=“Table1” src=“./Images/Table2.png”>
+<img width=“964” alt=“Table1” src=Images/Table1.png>
+<img width=“964” alt=“Table1” src=Images/Table2.png>
 
 ## Other
 > **Reference link :** 
