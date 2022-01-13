@@ -2,19 +2,19 @@
 ---
 > ##  Roadmap
 
-* ### [Introduction](./tree/main/From_scratch) 
+* ### [Introduction](./From_scratch) 
 
-* ### [Single Layer Perceptron](./tree/main/TensorFlow-Intro) 
+* ### [Single Layer Perceptron](.TensorFlow-Intro) 
 
-* ### [Multi Layer Perceptron](./tree/main/TensorFlow-Inter) 
+* ### [Multi Layer Perceptron](.TensorFlow-Inter) 
 
-* ### [Intro To Natural Language processing](./tree/main/NLP-Intro) 
+* ### [Intro To Natural Language processing](.NLP-Intro) 
     
 > ##  Experimentation
 
-* ### [Diabetes Prediction](./tree/main/Experiments/Predicting-Diabetes) 
+* ### [Diabetes Prediction](.Experiments/Predicting-Diabetes) 
 
-* ### [Texual Emotion Prediction](./tree/main/Experiments/Texual-Emotion) 
+* ### [Texual Emotion Prediction](.Experiments/Texual-Emotion) 
 
 > ##  Reference
 
