@@ -4,17 +4,17 @@
 
 * ### [Introduction](./From_scratch) 
 
-* ### [Single Layer Perceptron](.TensorFlow-Intro) 
+* ### [Single Layer Perceptron](./TensorFlow-Intro) 
 
-* ### [Multi Layer Perceptron](.TensorFlow-Inter) 
+* ### [Multi Layer Perceptron](./TensorFlow-Inter) 
 
-* ### [Intro To Natural Language processing](.NLP-Intro) 
+* ### [Intro To Natural Language processing](./NLP-Intro) 
     
 > ##  Experimentation
 
-* ### [Diabetes Prediction](.Experiments/Predicting-Diabetes) 
+* ### [Diabetes Prediction](./Experiments/Predicting-Diabetes) 
 
-* ### [Texual Emotion Prediction](.Experiments/Texual-Emotion) 
+* ### [Texual Emotion Prediction](./Experiments/Texual-Emotion) 
 
 > ##  Reference
 
