@@ -6,7 +6,7 @@
 
 * ### [Single Layer Perceptron](./TensorFlow-Intro) 
 
-* ### [Multi Layer Perceptron](./TensorFlow-Inter) 
+* ### [Multi Layer Perceptron](./Tensorflow-Inter) 
 
 * ### [Intro To Natural Language processing](./NLP-Intro) 
     
