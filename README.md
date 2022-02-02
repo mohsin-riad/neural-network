@@ -25,3 +25,5 @@
 * [MultiLayerNN Medium](https://towardsdatascience.com/multi-layer-neural-networks-with-sigmoid-function-deep-learning-for-rookies-2-bf464f09eb7f)
 
 * [Tensorflow Keras Library](https://www.tensorflow.org/api_docs/python/tf/keras)
+
+* [হাতেকলমে মেশিন লার্নিং](https://rakibul-hassan.gitbook.io/mlbook-titanic/)
